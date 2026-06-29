@@ -1,8 +1,8 @@
 ## Hey, I'm Nitturu Shameer
 
-I build production AI systems using LLMs, AI Agents, and RAG. Most of my time goes into FastAPI backends, voice systems, and multi-agent orchestration.
+I’m an AI Engineer specializing in Generative AI, Agentic AI, and Large Language Models. I build production-ready AI applications using LLMs, RAG, FastAPI, and AI agents.
 
-Based in India. Always shipping, not just shipping code.
+Based in India, with a focus on building scalable AI applications for real-world use cases.
 
 ---
 
@@ -10,11 +10,11 @@ Based in India. Always shipping, not just shipping code.
 
 **Voice AI Systems** — Real-time speech conversations with language models. Speech-to-text, LLM reasoning, text-to-speech, all wired together with WebSockets and FastAPI.
 
-**RAG Applications** — Document intelligence using semantic search, vector databases, and LLMs. The kind that actually work in production.
+**RAG Applications** — Document intelligence using semantic search, vector databases, and LLMs.
 
 **Agentic AI** — Multi-agent systems that reason, use tools, and coordinate. Currently exploring CrewAI and LangGraph.
 
-**AI Automation** — OCR systems, financial analysis, content generation. Whatever needs intelligence, I'll add a language model and a clean API.
+**AI Automation** — Building AI-powered automation for document processing, financial analysis, OCR workflows, and content generation using LLMs and modern backend services.
 
 ---
 
@@ -34,7 +34,7 @@ Based in India. Always shipping, not just shipping code.
 
 ## Stack
 
-**Languages** — Python, SQL
+**Languages** — ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), SQL
 
 **LLMs & AI** — OpenAI, Anthropic, Google Gemini, LangChain, LangGraph, CrewAI
 
@@ -73,4 +73,4 @@ Based in India. Always shipping, not just shipping code.
 
 ---
 
-*If you're interested in AI systems, production ML, or just building things that work—feel free to explore my repos. Open to conversations about LLMs, agentic AI, and backend engineering.*
+If you're interested in AI engineering, Generative AI, Agentic AI, or production LLM systems, feel free to explore my repositories or connect with me.
