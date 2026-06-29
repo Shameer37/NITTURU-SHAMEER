@@ -1,4 +1,4 @@
-## Hey, I'm Shameer
+## Hey, I'm Nitturu Shameer
 
 I build production AI systems using LLMs, AI Agents, and RAG. Most of my time goes into FastAPI backends, voice systems, and multi-agent orchestration.
 
